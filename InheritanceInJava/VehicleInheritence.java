@@ -82,7 +82,5 @@ public class VehicleInheritence {
         g1.drive();
         g1.combustion();
         g1.stop();
-
-
     }
 }
