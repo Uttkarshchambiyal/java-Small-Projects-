@@ -4,7 +4,7 @@
 // Players try to guess the number hidden by the Guesser.
 // Umpire collects inputs and declares the winner.
 // Updated: Added descriptive comments for better readability
-// =============================================
+// =============================================----------------
 import java.lang.*;
 import java.util.*;
 
